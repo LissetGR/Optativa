@@ -1,0 +1,26 @@
+{
+  "title": "¿Qué problemas produce la basura electrónica?",
+  "text": " Emiten toxinas cuando es quemada inapropiadamente por quienes buscan componentes valiosos, como el cobre y el oro. Por ejemplo",
+  "section": [
+    {
+      "title":  "¿Sabías qué?",
+      "content": "Un tubo fluorescente, por su contenido en mercurio y fósforo puede contaminar 16.000 litros de agua.",
+      "icon": "cerebro.png"
+    },
+    {
+      "title": "¿Sabías qué?",
+      "content": "Un televisor puede contaminar 80.000 litros de agua por su contenido de metales en las plaquetas, plomo en vidrio y fósforo en la pantalla.",
+      "icon": "jorge.png"
+    },
+    {
+      "title": "¿Sabías qué?",
+      "content": "Una batería de níquel cadmio de un telífono celular puede contaminar 50.000 litros de agua y afectar 10 metros cúbicos de suelo.",
+      "icon": "curiosa.png"
+    },
+    {
+      "title": "¿Sabías qué?",
+      "content": "Una plaqueta de un celular o una computadora tiene mercurio, bromo, cadmio, plomo y selenio, entre otros contaminantes peligrosos según la ley argentina de residuos peligrosos.",
+      "icon": "ewaste.png"
+    }
+  ]
+}

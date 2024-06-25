@@ -1,0 +1,13 @@
+{
+  "title": "Reciclaje Informático",
+  "text": "Es un proceso que se lleva a cabo en dispositivos electrónicos. Implica el desmontaje y separación de sus componentes y la recuperación de sus materias primas como plásticos, metales, entre otros.",
+  "button": [
+    {
+      "title": "Consecuencias"
+    },
+    {
+      "title": "Beneficios",
+      "color": "#fff"
+    }
+  ]
+}
